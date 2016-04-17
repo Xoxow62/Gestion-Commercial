@@ -19,4 +19,4 @@ Vous trouverez ici :
 
 - Le lien suivant au projet de gestion commercial :
 
-- Le lien suivant a l'application mobile CNO : 
+- Le lien suivant a l'application mobile CNO :  https://github.com/Xoxow62/Gestion-Commercial-Application-Mobile
