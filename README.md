@@ -17,6 +17,6 @@ Vous trouverez ici :
 
 - Un dossier avec les quatres PDF résumant les missions qui on était réaliser dans ce projet
 
-- Le lien suivant au projet de gestion commercial :
+- Le lien suivant au projet de gestion commercial : https://github.com/Xoxow62/Gestion-Commercial-Projet-JEE
 
 - Le lien suivant a l'application mobile CNO :  https://github.com/Xoxow62/Gestion-Commercial-App-Mobile
